@@ -25,10 +25,10 @@ All  the related graphs and tables (if any) can be found in the folder ```image`
 
 ## Summary
 The summary file and presentation slides can be found as following:
-* Refer to ```module2.pdf``` for the final summary of our analysis (3 pages limited).
-* Refer to ```module2.ipynb``` for the jupyter notebook file of the final summary.
-* Refer to ```module2_extension.ipynb``` for the full executive jupyter notebook (R) file of our analysis.
-* Refer to ```module2_extension.pdf``` for the full summary.
+* Refer to ```xxx.pdf``` for the final summary of our analysis (3 pages limited).
+* Refer to ```xxx.ipynb``` for the jupyter notebook file of the final summary.
+* Refer to ```xxx_extension.ipynb``` for the full executive jupyter notebook (R/Python) file of our analysis.
+* Refer to ```xxx_extension.pdf``` for the full summary.
 * Refer to ```presentation.pdf``` for the presentation slides.
 
 ## Acknowledgement
