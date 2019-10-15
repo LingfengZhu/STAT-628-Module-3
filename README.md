@@ -11,11 +11,11 @@ Describe the dataset here.
 All the codes are based on R 3.5.3/Python 3.7.X. Please check your R/Python version if you want to replicate our analysis.  
 * Refer to ```code/XXX.R``` for the data cleaning progress.  
 * Refer to ```code/XXX.R``` for the modeling, feature seleciton and any other related analysis progress.
-* Refer to ```code/BodyFat/app.R``` for the source codes of shiny application.
+* Refer to ```code/xxx/app.R``` for the source codes of shiny application.
 
 ## App
 I have completed a shiny application who runs our XXX model in real-time.   
-**Shiny APP web address:** https://lingfengzhu.shinyapps.io/bodyfat/  
+**Shiny APP web address:** https://lingfengzhu.shinyapps.io/xxx/  
 **Remarks:** 
 * The application can only predict body fat percentage for male since the BodyFat dataset contains data of males only.
 * Input values are limited within a common range for normal males.
