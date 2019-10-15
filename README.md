@@ -14,11 +14,11 @@ All the codes are based on R 3.5.3/Python 3.7.X. Please check your R/Python vers
 * Refer to ```code/xxx/app.R``` for the source codes of shiny application.
 
 ## App
-I have completed a shiny application who runs our XXX model in real-time.   
+We have completed a shiny application who runs our XXX model in real-time.   
 **Shiny APP web address:** https://lingfengzhu.shinyapps.io/xxx/  
 **Remarks:** 
-* The application can only predict body fat percentage for male since the BodyFat dataset contains data of males only.
-* Input values are limited within a common range for normal males.
+* remark 1 bla bla...
+* remark 2 bla bla bla...
 
 ## Images
 All  the related graphs and tables (if any) can be found in the folder ```image```.
