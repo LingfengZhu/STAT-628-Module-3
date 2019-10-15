@@ -1,4 +1,4 @@
-# STAT-628-Module-2: BodyFat-Project
+# STAT-628-Module-3: XXX-Project
 This repo contains the codes, report, app and PPT for the project Male BodyFat Predictor written by Lingfeng Zhu (me), P2, P3 and P4 for STAT-628. All codes are based on R/Python.
 
 ## Dataset
