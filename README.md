@@ -39,6 +39,6 @@ STAT 628, UW-Madison
 Contact us if you are interested in our analysis or have any questions about our work:
 * Lingfeng Zhu  lzhu88@wisc.edu
 * Han Liao hliao27@wisc.edu
-* P3     P3@wisc.edu
+* Qiaochu Yu    qyu65@wisc.edu
 * Yujie Zhang     zhang2329@wisc.edu
 
