@@ -1,5 +1,5 @@
 # STAT-628-Module-3: XXX-Project
-This repo contains the codes, report, app and PPT for the project XXX written by Lingfeng Zhu (me), P2, P3 and P4 for STAT-628-module-3. All codes are based on R/Python.
+This repo contains the codes, report, app and PPT for the project XXX written by Lingfeng Zhu (me), P2, P3 and Yujie Zhang for STAT-628-module-3. All codes are based on R/Python.
 
 ## Dataset
 Describe the dataset here.
