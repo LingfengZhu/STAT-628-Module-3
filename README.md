@@ -40,5 +40,5 @@ Contact us if you are interested in our analysis or have any questions about our
 * Lingfeng Zhu  lzhu88@wisc.edu
 * Han Liao hliao27@wisc.edu
 * P3     P3@wisc.edu
-* P4     zhang2329@wisc.edu
+* Yujie Zhang     zhang2329@wisc.edu
 
