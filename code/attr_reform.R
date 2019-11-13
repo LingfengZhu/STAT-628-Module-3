@@ -2,7 +2,7 @@
 setwd("~/Downloads/2019Fall/628/Module3")
 
 # load data
-att_df <- read.csv('att_data.csv')
+att_df <- read.csv('data/att_data.csv')
 att_df <- att_df[, -1]
 str(att_df)
 
@@ -77,14 +77,6 @@ for (i in 1:6) {
 }
 
 
-##########percentage of missing###########
-missing <- function(x){
-  return(length(which(x==""))/dim(att_clean_df)[1])
-}
+write.csv(att_clean_df, "data/att_data_2.csv")
 
-missing_per <- apply(att_clean_df, 2, missing)
-keep_var <- which(missing_per<0.9)
-colnames(att_clean_df)[keep_var]
-att_clean_df <- att_clean_df[, keep_var]
 
-write.csv(att_clean_df, "att_clean_df.csv")
