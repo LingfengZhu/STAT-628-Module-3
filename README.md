@@ -28,6 +28,8 @@ All  the related graphs and tables (if any) can be found in the folder ```image`
 The summary file and presentation slides can be found as following:
 * Refer to ```summary.pdf``` for the final summary of our analysis (6 pages limited).
 * Refer to ```summary.ipynb``` for the jupyter notebook file of the final summary.
+* Refer to ```EDA_summary.pdf``` for the summary of EDA part.
+* Refer to ```EDA_summary.ipynf``` for the jupyter notebook file of the EDA summary.
 
 ## Presentation
 * Refer to ```presentation_1.pdf``` for the slides of proposal presentation.
