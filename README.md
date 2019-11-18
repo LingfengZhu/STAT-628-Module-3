@@ -14,9 +14,10 @@ All the codes are based on R 3.5/Python 3.7. Please check your R/Python version 
 * Refer to ```code/attribute``` for the codes of attribute-based analysis.
 * Refer to ```code/review``` for the codes of review-based analysis.
 
-## App
+## Shiny App
 We have completed a shiny application who runs our XXX model in real-time.   
-**Shiny APP web address:** https://1037761185qq.shinyapps.io/Tue-G7/
+**Shiny APP web address:** https://1037761185qq.shinyapps.io/Tue-G7/  
+**Code for the Shiny APP:** Refer to folder ```App```.
 
 ## Images
 All  the related graphs and tables (if any) can be found in the folder ```image```.
@@ -25,11 +26,12 @@ All  the related graphs and tables (if any) can be found in the folder ```image`
 
 ## Summary
 The summary file and presentation slides can be found as following:
-* Refer to ```628_module3_Tue_group_7.pdf``` for the final summary of our analysis (6 pages limited).
-* Refer to ```628_module3_Tue_group_7.ipynb``` for the jupyter notebook file of the final summary.
-* Refer to ```xxx_extension.ipynb``` for the full executive jupyter notebook (R/Python) file of our analysis.
-* Refer to ```xxx_extension.pdf``` for the full summary.
-* Refer to ```presentation.pdf``` for the presentation slides.
+* Refer to ```summary.pdf``` for the final summary of our analysis (6 pages limited).
+* Refer to ```summary.ipynb``` for the jupyter notebook file of the final summary.
+
+## Presentation
+* Refer to ```presentation_1.pdf``` for the slides of proposal presentation.
+* Refer to ```presentation_2.pdf``` for the slides of final presentation.
 
 ## Acknowledgement
 Prof. HYUNSEUNG KANG, UW-Madison  
