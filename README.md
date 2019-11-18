@@ -31,6 +31,10 @@ The summary file and presentation slides can be found as following:
 * Refer to ```xxx_extension.pdf``` for the full summary.
 * Refer to ```presentation.pdf``` for the presentation slides.
 
+## Presentation
+* Refer to ```presentation_1.pdf``` for the PPT of proposal presentation.
+* Refer to ```presentation_2.pdf``` for the PPT of final presentation.
+
 ## Acknowledgement
 Prof. HYUNSEUNG KANG, UW-Madison  
 STAT 628, UW-Madison
