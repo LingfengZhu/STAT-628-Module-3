@@ -1,5 +1,5 @@
-# STAT-628-Module-3: XXX-Project
-This repo contains the codes, report, app and PPT for the project XXX written by Lingfeng Zhu (me), Han Liao, P3 and Yujie Zhang for STAT-628-module-3. All codes are based on R/Python.
+# STAT-628-Module-3: Yelp-Project
+This repo contains the codes, report, app and PPT for the project Yelp written by Lingfeng Zhu (me), Han Liao, Qiaochu Yu and Yujie Zhang for STAT-628-module-3. All codes are based on R/Python.
 
 ## Dataset
 Describe the dataset here.
@@ -25,8 +25,8 @@ All  the related graphs and tables (if any) can be found in the folder ```image`
 
 ## Summary
 The summary file and presentation slides can be found as following:
-* Refer to ```xxx.pdf``` for the final summary of our analysis (3 pages limited).
-* Refer to ```xxx.ipynb``` for the jupyter notebook file of the final summary.
+* Refer to ```628_module3_Tue_group_7.pdf``` for the final summary of our analysis (6 pages limited).
+* Refer to ```628_module3_Tue_group_7.ipynb``` for the jupyter notebook file of the final summary.
 * Refer to ```xxx_extension.ipynb``` for the full executive jupyter notebook (R/Python) file of our analysis.
 * Refer to ```xxx_extension.pdf``` for the full summary.
 * Refer to ```presentation.pdf``` for the presentation slides.
