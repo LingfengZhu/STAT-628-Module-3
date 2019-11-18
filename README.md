@@ -2,8 +2,9 @@
 This repo contains the codes, report, app and PPT for the project Yelp written by Lingfeng Zhu (me), Han Liao, Qiaochu Yu and Yujie Zhang for STAT-628-module-3. All codes are based on R/Python.
 
 ## Dataset
-Describe the dataset here.
-* Refer to ```data/XXX.csv``` for the raw dataset.   
+* Refer to ```data/mexican.csv``` for the raw dataset.
+* Refer to ```data/attribute_data``` for the cleaned data (and temporary data files) we used in the attribute related analysis.  
+* Refer to ```data/review_data``` for the cleaned data (and related word list files) we used in the review based analysis.  
 * Refer to ```data/XXX.docx``` for more details about the dataset.  
 * Refer to ```data/XXX.csv``` for the cleaned dataset.
 
