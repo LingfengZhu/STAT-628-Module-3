@@ -14,9 +14,9 @@ All the codes are based on R 3.5/Python 3.7. Please check your R/Python version 
 * Refer to ```code/attribute``` for the codes of attribute-based analysis.
 * Refer to ```code/review``` for the codes of review-based analysis.
 
-## App
+## Shiny App
 We have completed a shiny application who runs our XXX model in real-time.   
-**Shiny APP web address:** https://1037761185qq.shinyapps.io/Tue-G7/
+**Shiny APP web address:** https://1037761185qq.shinyapps.io/Tue-G7/  
 **Code for the Shiny APP:** Refer to folder ```App```.
 
 ## Images
