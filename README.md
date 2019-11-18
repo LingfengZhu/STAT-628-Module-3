@@ -1,18 +1,18 @@
-# STAT-628-Module-3: Yelp-Project
+# STAT-628-Module-3: Yelp-Mexican-food-Project
 This repo contains the codes, report, app and PPT for the project Yelp written by Lingfeng Zhu (me), Han Liao, Qiaochu Yu and Yujie Zhang for STAT-628-module-3. All codes are based on R/Python.
 
 ## Dataset
 We use the yelp dataset from the given files ```review.json```, ```business.json```, ```tip.json``` and ```user.json```. The raw data can be obtained from this link(UW-Madison access needed): https://uwmadison.box.com/s/bp36qfdw9twqf6po4tft6iktdfpzr0k0
-* Refer to ```data/mexican.csv``` for the raw dataset.
+* Refer to ```data/mexican.csv``` for the loaded Mexican dataset.
 * Refer to ```data/attribute_data``` for the cleaned data (and temporary data files) we used in the attribute related analysis.  
 * Refer to ```data/review_data``` for the cleaned data (and related word list files) we used in the review based analysis.  
 * Refer to ```data/Yelp_DataDescription.docx``` for more details about the dataset.  
 
 ## Codes
 All the codes are based on R 3.5.3/Python 3.7.X. Please check your R/Python version if you want to replicate our analysis.  
-* Refer to ```code/XXX.R``` for the data cleaning progress.  
-* Refer to ```code/XXX.R``` for the modeling, feature seleciton and any other related analysis progress.
-* Refer to ```code/xxx/app.R``` for the source codes of shiny application.
+* Refer to ```code/EDA``` for the data loading progress and EDA part.  
+* Refer to ```code/attribute``` for the codes of attribute based analysis.
+* Refer to ```code/review``` for the codes of attribute based analysis.
 
 ## App
 We have completed a shiny application who runs our XXX model in real-time.   
