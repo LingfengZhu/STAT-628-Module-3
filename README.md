@@ -9,17 +9,14 @@ We use the yelp dataset from the given files ```review.json```, ```business.json
 * Refer to ```data/Yelp_DataDescription.docx``` for more details about the dataset.  
 
 ## Codes
-All the codes are based on R 3.5.3/Python 3.7.X. Please check your R/Python version if you want to replicate our analysis.  
+All the codes are based on R 3.5/Python 3.7. Please check your R/Python version if you want to replicate our analysis.  
 * Refer to ```code/EDA``` for the data loading progress and EDA part.  
 * Refer to ```code/attribute``` for the codes of attribute based analysis.
 * Refer to ```code/review``` for the codes of attribute based analysis.
 
 ## App
 We have completed a shiny application who runs our XXX model in real-time.   
-**Shiny APP web address:** https://lingfengzhu.shinyapps.io/xxx/  
-**Remarks:** 
-* remark 1 bla bla...
-* remark 2 bla bla bla...
+**Shiny APP web address:** https://1037761185qq.shinyapps.io/Tue-G7/
 
 ## Images
 All  the related graphs and tables (if any) can be found in the folder ```image```.
