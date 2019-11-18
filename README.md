@@ -20,6 +20,8 @@ We have completed a shiny application who runs our XXX model in real-time.
 
 ## Images
 All  the related graphs and tables (if any) can be found in the folder ```image```.
+* Refer to ```image/EDA``` for the EDA images.
+* Refer to ```image/summart_ppt``` for the images used in the summary file and the presentation file.
 
 ## Summary
 The summary file and presentation slides can be found as following:
@@ -36,7 +38,7 @@ STAT 628, UW-Madison
 ## Contact information
 Contact us if you are interested in our analysis or have any questions about our work:
 * Lingfeng Zhu  lzhu88@wisc.edu
-* Han Liao hliao27@wisc.edu
-* Qiaochu Yu    qyu65@wisc.edu
-* Yujie Zhang     zhang2329@wisc.edu
+* Han Liao  hliao27@wisc.edu
+* Qiaochu Yu  qyu65@wisc.edu
+* Yujie Zhang  zhang2329@wisc.edu
 
